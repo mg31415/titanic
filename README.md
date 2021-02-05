@@ -1,4 +1,4 @@
-# titanic
+# Titanic
 <h1> Binary classification on the famous titanic dataset </h1>
 
 <h2> Highlights </h2>
