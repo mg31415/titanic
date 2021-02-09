@@ -8,6 +8,7 @@
 <h3> feature engineering </h3>
 <h3> classification using logistic regression, decision trees, </h3>
 <h3> hyperparameter tuning using grid search </h3>
+<h3> Validation </h3>
 
 
 
